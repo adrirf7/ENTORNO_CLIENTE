@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <label for="num">Introduce un numero del 1 al 10: </label>
+    <input type="number" id="num" min="1" max="10" />
+    <button onclick="calcularTabla()">Calcular tabla</button>
+
+    <div id="resultado" style="margin-top: 20px"></div>
+
+    <script>
+      function calcularTabla() {
+        const num = parseInt(document.getElementById("num").value);
+        const resultadoDiv = document.getElementById("resultado");
+
+        resultadoDiv.innerHTML = "";
+
+        if (isNaN(num) || num < 1 || num > 10) {
+          resultadoDiv.innerHTML =
+            "<p> Porfavor introduce un numero del 1 al 10 </p>";
+          return;
+        }
+
+        let salida = `<h3>Tabla de multiplicar del ${num} </h3>`;
+        for (let i = 0; i < 10; i++) {
+          salida += `<p>${num} x ${i} = ${num * i}</p>`;
+        }
+
+        resultadoDiv.innerHTML = salida;
+      }
+    </script>
+  </body>
+</html>
