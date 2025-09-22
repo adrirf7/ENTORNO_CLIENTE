@@ -6,7 +6,6 @@
     <title>alert, prompt y confirm</title>
   </head>
   <body>
-    <h2>Preguntar nombre y edad</h2>
     <div id="resultado"></div>
 
     <script>
@@ -14,12 +13,12 @@
       const resultadoDiv = document.getElementById("resultado");
 
       if (nombre) {
-        resultadoDiv.innerHTML(`<p> su nombre es: ${nombre}`);
+        alert(`Bienvenido ${nombre}`);
       }
 
-      const edad = prompt("Cual es tu edad");
+      const edad = prompt("Cual es tu edad?");
       if (edad) {
-        resultadoDiv.innerHTML(`<p> su edad es: ${edad}`);
+        alert(`Su edad es: ${edad}`);
       }
     </script>
   </body>
