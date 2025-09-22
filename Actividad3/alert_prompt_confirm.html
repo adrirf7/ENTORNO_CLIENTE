@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>alert, prompt y confirm</title>
+  </head>
+  <body>
+    <h2>Preguntar nombre y edad</h2>
+    <div id="resultado"></div>
+
+    <script>
+      const nombre = prompt("Cual es tu nombre?");
+      const resultadoDiv = document.getElementById("resultado");
+
+      if (nombre) {
+        resultadoDiv.innerHTML(`<p> su nombre es: ${nombre}`);
+      }
+
+      const edad = prompt("Cual es tu edad");
+      if (edad) {
+        resultadoDiv.innerHTML(`<p> su edad es: ${edad}`);
+      }
+    </script>
+  </body>
+</html>

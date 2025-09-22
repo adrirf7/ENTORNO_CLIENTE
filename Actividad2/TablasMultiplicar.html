@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tablas de multiplicar</title>
+  </head>
+  <body>
+    <button onclick="mostrarTablas()">Mostrar las tablas de multiplicar</button>
+
+    <div id="resultado" style="margin-top: 40px"></div>
+
+    <script>
+      function mostrarTablas() {
+        const resultadoDiv = document.getElementById("resultado");
+        resultadoDiv.innerHTML = "";
+        let salida = "";
+
+        for (let i = 0; i < 11; i++) {
+          salida += `<h3>Tabla de multiplicar del ${i} </h3>`;
+          for (let j = 0; j < 11; j++) {
+            salida += `<p> ${i} x ${j} = ${i * j}</p>`;
+          }
+        }
+        resultadoDiv.innerHTML = salida;
+      }
+    </script>
+  </body>
+</html>
