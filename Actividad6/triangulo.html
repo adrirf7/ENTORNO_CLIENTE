@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Triangulos</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Triangulos</h1>
+      <label for="filas"
+        >Ingrese un valor para generar las filas del triangulo</label
+      >
+      <input type="number" id="filas" />
+      <button onclick="generarTriangulos()">Generar triangulo</button>
+      <pre id="result"></pre>
+    </div>
+
+    <script>
+      function generarTriangulos() {
+        const filas = parseInt(document.getElementById("filas").value);
+        const resultDiv = document.getElementById("result");
+        resultDiv.textContent = "";
+
+        if (!filas) {
+          alert("Porfavor intoduce un numero");
+          return;
+        }
+        let salida = "";
+        for (i = 1; i <= filas; i++) {
+          let espacios = " ".repeat(filas - i);
+          let estrellas = "*".repeat(2 * i - 1);
+          salida += espacios + estrellas + "\n";
+        }
+        resultDiv.textContent = salida;
+      }
+    </script>
+  </body>
+</html>
