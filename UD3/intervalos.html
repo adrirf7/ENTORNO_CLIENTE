@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Intervalos</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body id="cuerpo">
+    <div class="d-flex justify-content-center align-items-center vh-100">
+      <div class="container text-center">
+        <h1 id="texto" style="text-shadow: 2px 2px 2px black">Intervalos</h1>
+        <p id="final"></p>
+      </div>
+    </div>
+    <script>
+      const cuerpo = document.getElementById("cuerpo");
+      const texto = document.getElementById("texto");
+      const final = document.getElementById("final");
+      const coloresText = ["red", "blue", "green", "orange", "purple", "pink"];
+      const coloresBody = [
+        "#FF5733",
+        "#33FF57",
+        "#3357FF",
+        "#F333FF",
+        "#33FFF5",
+        "#FFD433",
+      ];
+      let indice = 0;
+
+      const intervalo = setInterval(() => {
+        texto.style.color = coloresText[indice];
+        cuerpo.style.backgroundColor = coloresBody[indice];
+        indice = (indice + 1) % coloresText.length;
+      }, 2000);
+
+      setTimeout(() => {
+        clearInterval(intervalo);
+        texto.style.color = "black";
+        cuerpo.style.backgroundColor = "#FFFFFF";
+        final.textContent = "Intervalo finalizado";
+      }, 20000);
+    </script>
+  </body>
+</html>

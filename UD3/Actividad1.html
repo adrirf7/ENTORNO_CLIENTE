@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fecha</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="d-flex justify-content-center align-items-center vh-100">
+      <div class="container text-center">
+        <h1 style="margin-bottom: 20px">Fecha actual</h1>
+        <div id="date"></div>
+      </div>
+    </div>
+    <script>
+      window.onload = function () {
+        const divDate = document.getElementById("date");
+        const fecha = new Date();
+
+        const dia = String(fecha.getDate());
+        const mes = String(fecha.getMonth());
+        const year = String(fecha.getFullYear());
+
+        divDate.innerHTML = `Hoy es ${dia} del mes ${mes} del año ${year}`;
+      };
+    </script>
+  </body>
+</html>
