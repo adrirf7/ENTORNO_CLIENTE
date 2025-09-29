@@ -10,6 +10,20 @@
       integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
       crossorigin="anonymous"
     />
+    <style>
+      .overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.8);
+        display: none; /* de base oculto */
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+      }
+    </style>
   </head>
   <body>
     <div class="d-flex justify-content-center align-items-center vh-100">
@@ -39,13 +53,6 @@
         </div>
 
         <pre id="palabra" style="font-size: 2rem"></pre>
-        <div
-          id="mensajeAdivinado"
-          class="alert alert-success d-none"
-          role="alert"
-        >
-          ¡Has adivinado la palabra!
-        </div>
 
         <div
           id="mensajeIncorrecto"
@@ -57,6 +64,32 @@
         <div id="imagenAhorcado">
           <img id="imgAhorcado" src="./img/ahorcado01.png" alt="ahorcado01" />
         </div>
+      </div>
+    </div>
+
+    <div id="overlayVictoria" class="overlay">
+      <div class="overlay-content alert alert-success">
+        <h2>¡¡¡Has Ganado!!!</h2>
+        <button
+          class="btn btn-primary mt-3"
+          onclick="cerrarOverlay('overlayVictoria')"
+        >
+          Cerrar
+        </button>
+      </div>
+    </div>
+
+    <div id="overlayDerrota" class="overlay">
+      <div class="overlay-content alert alert-danger">
+        <h2>💀 ¡Has perdido!</h2>
+        <p>La palabra era:</p>
+        <p id="palabraDerrota"></p>
+        <button
+          class="btn btn-primary mt-3"
+          onclick="cerrarOverlay('overlayDerrota')"
+        >
+          Cerrar
+        </button>
       </div>
     </div>
     <script src="./script.js"></script>
