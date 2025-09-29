@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ahorcado</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="d-flex justify-content-center align-items-center vh-100">
+      <div class="container text-center">
+        <h1 style="margin-bottom: 20px">Ahorcado</h1>
+        <div class="input-group w-50 mx-auto">
+          <input
+            class="form-control"
+            id="letraInput"
+            type="text"
+            placeholder="Introduca una letra"
+          />
+          <button
+            type="button"
+            class="btn btn-primary"
+            onclick="comprobarPalabra()"
+          >
+            Comprobar
+          </button>
+          <button
+            type="button"
+            class="btn btn-warning"
+            onclick="generarPalabra()"
+          >
+            Generar nueva palabra
+          </button>
+        </div>
+
+        <pre id="palabra" style="font-size: 2rem"></pre>
+        <div
+          id="mensajeAdivinado"
+          class="alert alert-success d-none"
+          role="alert"
+        >
+          ¡Has adivinado la palabra!
+        </div>
+
+        <div
+          id="mensajeIncorrecto"
+          class="alert alert-danger d-none"
+          role="alert"
+        >
+          ¡Letra incorrecta!
+        </div>
+        <div id="imagenAhorcado">
+          <img id="imgAhorcado" src="./img/ahorcado01.png" alt="ahorcado01" />
+        </div>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>
