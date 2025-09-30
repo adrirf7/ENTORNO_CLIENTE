@@ -34,6 +34,7 @@
             class="form-control"
             id="letraInput"
             type="text"
+            maxlength="1"
             placeholder="Introduca una letra"
           />
           <button
@@ -51,7 +52,10 @@
             Generar nueva palabra
           </button>
         </div>
-
+        <div class="d-flex justify-content-between w-50 mx-auto mb-3">
+          <pre style="font-size: 1.5rem" id="tipo_gramatical"></pre>
+          <pre style="font-size: 1.5rem" id="categoria_semantica"></pre>
+        </div>
         <pre id="palabra" style="font-size: 2rem"></pre>
 
         <div
@@ -67,6 +71,7 @@
       </div>
     </div>
 
+    <!-- Overlay de Victoria -->
     <div id="overlayVictoria" class="overlay">
       <div class="overlay-content alert alert-success">
         <h2>¡¡¡Has Ganado!!!</h2>
@@ -79,6 +84,7 @@
       </div>
     </div>
 
+    <!-- Overlay de Derrota -->
     <div id="overlayDerrota" class="overlay">
       <div class="overlay-content alert alert-danger">
         <h2>💀 ¡Has perdido!</h2>

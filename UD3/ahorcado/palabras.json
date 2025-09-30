@@ -1,0 +1,1754 @@
+{
+  "palabras": [
+    {
+      "palabra": "Maria",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Juan",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Pedro",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ana",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Luis",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Laura",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Carlos",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Marta",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Diego",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Elena",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Jose",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Sofia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Miguel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Isabel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Fernando",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Patricia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ricardo",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Lucia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Manuel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Claudia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Maria",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Juan",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Pedro",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ana",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Luis",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Laura",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Carlos",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Marta",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Diego",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Elena",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Jose",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Sofia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Miguel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Isabel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Fernando",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Patricia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ricardo",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Lucia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Manuel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Claudia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Maria",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Juan",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Pedro",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ana",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Luis",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Laura",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Carlos",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Marta",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Diego",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Elena",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Jose",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Sofia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Miguel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Isabel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Fernando",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Patricia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ricardo",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Lucia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Manuel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Claudia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Maria",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Juan",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Pedro",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ana",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Luis",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Laura",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Carlos",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Marta",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Diego",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Elena",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Jose",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Sofia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Miguel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Isabel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Fernando",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Patricia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ricardo",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Lucia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Manuel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Claudia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Maria",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Juan",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Pedro",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ana",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Luis",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Laura",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Carlos",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Marta",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Diego",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Elena",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Jose",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Sofia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Miguel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Isabel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Fernando",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Patricia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ricardo",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Lucia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Manuel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Claudia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Maria",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Juan",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Pedro",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ana",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Luis",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Laura",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Carlos",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Marta",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Diego",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Elena",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Jose",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Sofia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Miguel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Isabel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Fernando",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Patricia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ricardo",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Lucia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Manuel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Claudia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Maria",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Juan",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Pedro",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ana",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Luis",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Laura",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Carlos",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Marta",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Diego",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Elena",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Jose",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Sofia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Miguel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Isabel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Fernando",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Patricia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ricardo",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Lucia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Manuel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Claudia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Maria",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Juan",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Pedro",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ana",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Luis",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Laura",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Carlos",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Marta",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Diego",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Elena",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Jose",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Sofia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Miguel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Isabel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Fernando",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Patricia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ricardo",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Lucia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Manuel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Claudia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Maria",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Juan",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Pedro",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ana",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Luis",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Laura",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Carlos",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Marta",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Diego",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Elena",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Jose",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Sofia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Miguel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Isabel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Fernando",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Patricia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ricardo",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Lucia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Manuel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Claudia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Maria",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Juan",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Pedro",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ana",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Luis",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Laura",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Carlos",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Marta",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Diego",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Elena",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Jose",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Sofia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Miguel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Isabel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Fernando",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Patricia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Ricardo",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Lucia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Manuel",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "Claudia",
+      "tipo_gramatical": "Nombre",
+      "categoria_semantica": "Nombre propio"
+    },
+    {
+      "palabra": "perro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "raton",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "conejo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tigre",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "leon",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "elefante",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "jirafa",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "zorro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "lobo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oso",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "vaca",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "caballo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "cerdo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oveja",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pollo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gallina",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pez",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tortuga",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "perro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "raton",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "conejo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tigre",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "leon",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "elefante",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "jirafa",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "zorro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "lobo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oso",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "vaca",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "caballo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "cerdo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oveja",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pollo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gallina",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pez",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tortuga",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "perro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "raton",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "conejo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tigre",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "leon",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "elefante",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "jirafa",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "zorro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "lobo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oso",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "vaca",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "caballo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "cerdo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oveja",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pollo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gallina",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pez",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tortuga",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "perro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "raton",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "conejo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tigre",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "leon",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "elefante",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "jirafa",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "zorro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "lobo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oso",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "vaca",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "caballo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "cerdo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oveja",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pollo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gallina",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pez",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tortuga",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "perro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "raton",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "conejo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tigre",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "leon",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "elefante",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "jirafa",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "zorro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "lobo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oso",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "vaca",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "caballo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "cerdo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oveja",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pollo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gallina",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pez",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tortuga",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "perro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "raton",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "conejo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tigre",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "leon",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "elefante",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "jirafa",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "zorro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "lobo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oso",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "vaca",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "caballo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "cerdo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oveja",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pollo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gallina",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pez",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tortuga",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "perro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "raton",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "conejo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tigre",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "leon",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "elefante",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "jirafa",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "zorro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "lobo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oso",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "vaca",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "caballo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "cerdo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "oveja",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pollo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gallina",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "pez",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tortuga",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "perro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "gato",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "raton",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "conejo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "tigre",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "leon",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "elefante",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "jirafa",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "zorro",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    },
+    {
+      "palabra": "lobo",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
+    }
+  ]
+}
