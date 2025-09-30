@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Location</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="d-flex justify-content-center align-items-center vh-100 gap-5">
+      <div class="card" style="width: 18rem">
+        <div class="card-body">
+          <h5 class="card-title">Nasa</h5>
+          <p class="card-text">
+            Explora el espacio y descubre las últimas noticias, imágenes y
+            misiones de la agencia espacial estadounidense.
+          </p>
+          <button
+            class="btn btn-primary"
+            onclick="redireccion('https://www.nasa.gov')"
+          >
+            Pagina 1
+          </button>
+        </div>
+      </div>
+      <div class="card" style="width: 18rem">
+        <div class="card-body">
+          <h5 class="card-title">Khance Academy</h5>
+          <p class="card-text">
+            Aprende gratuitamente sobre matemáticas, ciencia, programación y más
+            con lecciones interactivas y ejercicios prácticos.
+          </p>
+          <button
+            class="btn btn-primary"
+            onclick="redireccion('https://www.khanacademy.org')"
+          >
+            Pagina 2
+          </button>
+        </div>
+      </div>
+      <div class="card" style="width: 18rem">
+        <div class="card-body">
+          <h5 class="card-title">Ted</h5>
+          <p class="card-text">
+            Accede a charlas inspiradoras de expertos en tecnología,
+            entretenimiento, diseño y diversos campos del conocimiento.
+          </p>
+          <button
+            class="btn btn-primary"
+            onclick="redireccion('https://www.ted.com/')"
+          >
+            Pagina 3
+          </button>
+        </div>
+      </div>
+    </div>
+    <script>
+      function redireccion(url) {
+        location.href = url;
+      }
+    </script>
+  </body>
+</html>

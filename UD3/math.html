@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Math</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="d-flex justify-content-center align-items-center vh-100">
+      <div class="container text-center">
+        <h1>Adivina el numero secreto del 1 al 100</h1>
+        <label for="userNumber"></label>
+        <input type="number" id="userNumber" />
+        <button onclick="numberCheck()">Comprobar Numero</button>
+        <pre id="result"></pre>
+      </div>
+    </div>
+
+    <script>
+      let secretNumber;
+
+      window.onload = function () {
+        secretNumber = Math.floor(Math.random() * 100 + 1);
+      };
+
+      function numberCheck() {
+        const divResult = document.getElementById("result");
+        const userNumber = document.getElementById("userNumber").value;
+
+        let salida = "";
+
+        if (userNumber < secretNumber) {
+          salida = "Incorrecto -- El numero que buscas es mayor";
+          divResult.textContent = salida;
+        } else if (userNumber > secretNumber) {
+          salida = "Incorrecto -- El numero que buscas es menor";
+          divResult.textContent = salida;
+        } else {
+          salida = "CORRECTO!! Adivinaste el numero secreto";
+          divResult.textContent = salida;
+        }
+      }
+    </script>
+  </body>
+</html>
