@@ -2,6 +2,8 @@ let palabraOriginal;
 let palabraOculta;
 let intentos = 1;
 let palabras = [];
+const img = document.getElementById("imgAhorcado");
+const mensajeIncorrecto = document.getElementById("mensajeIncorrecto");
 
 window.onload = function () {
   //Llamada a la funcion para generar una palabra al inciar la pagina
@@ -18,8 +20,6 @@ function generarPalabra() {
       let indice = Math.floor(Math.random() * palabras.length);
       palabraOriginal = palabras[indice];
 
-      palabraOriginal.palabra = palabraOriginal.palabra.toLowerCase(); //Convertir la palabra a minusculas
-
       //Ocultar la palabra
       palabraOculta = Array(palabraOriginal.palabra.length).fill("_");
 
@@ -28,20 +28,20 @@ function generarPalabra() {
       const categoria_semantica = document.getElementById(
         "categoria_semantica"
       );
-
       resultadoDiv.textContent =
         palabraOculta.join(" ") + palabraOriginal.palabra; //Mostrar la palabra oculta
       tipo_gramatical.textContent = palabraOriginal.tipo_gramatical; //Mostrar el tipo de la palabra
       categoria_semantica.textContent = palabraOriginal.categoria_semantica; //Mostar la categoria de la palabra
+
+      img.src = "./img/ahorcado01.png"; //Resetea el ahorcado
+      mensajeIncorrecto.classList.add("d-none"); //Limpia las alertas
     });
 }
 
 function comprobarPalabra() {
-  const mensajeIncorrecto = document.getElementById("mensajeIncorrecto");
-  const img = document.getElementById("imgAhorcado");
   const letraInput = document.getElementById("letraInput"); //Entrada del formulario
 
-  letra = letraInput.value;
+  letra = letraInput.value.toUpperCase();
 
   //Control de errores para el fromulario
   if (!letra) {
@@ -52,7 +52,6 @@ function comprobarPalabra() {
     return;
   }
 
-  letra.toLowerCase(); //Convertir la palabra a minuscula
   letraInput.value = "";
   let acierto = false;
 
@@ -77,9 +76,7 @@ function comprobarPalabra() {
       document.getElementById("overlayDerrota").style.display = "flex"; //Muestra el overlay de la derrota
       //Muestra la palabra que no acerto el usuario con la primera letra en mayuscula
       const palabraDerrota = document.getElementById("palabraDerrota");
-      palabraDerrota.textContent =
-        palabraOriginal.palabra.charAt(0).toUpperCase() +
-        palabraOriginal.palabra.slice(1);
+      palabraDerrota.textContent = palabraOriginal.palabra;
       return;
     }
   } else if (acierto) {

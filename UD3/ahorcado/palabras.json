@@ -1,1754 +1,1704 @@
 {
   "palabras": [
     {
-      "palabra": "Maria",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
-    },
-    {
-      "palabra": "Juan",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
-    },
-    {
-      "palabra": "Pedro",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
-    },
-    {
-      "palabra": "Ana",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
-    },
-    {
-      "palabra": "Luis",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
-    },
-    {
-      "palabra": "Laura",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
-    },
-    {
-      "palabra": "Carlos",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
-    },
-    {
-      "palabra": "Marta",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
-    },
-    {
-      "palabra": "Diego",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
-    },
-    {
-      "palabra": "Elena",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
-    },
-    {
-      "palabra": "Jose",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "SILLA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Sofia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MESA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Miguel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ORDENADOR",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Isabel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "TELEFONO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Fernando",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "VENTANA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Patricia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PUERTA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Ricardo",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "LAMPARA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Lucia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BOLIGRAFO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Manuel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CUADERNO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Claudia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "RELOJ",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Maria",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CUCHARA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Juan",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "TENEDOR",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Pedro",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CUCHILLO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Ana",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "SOFA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Luis",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CAMA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Laura",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "TELEVISION",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Carlos",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "RADIO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Marta",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BOTELLA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Diego",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "VASO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Elena",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "COCHE",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Jose",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CAMION",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Sofia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BICICLETA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Miguel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MOTOCICLETA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Isabel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "AVION",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Fernando",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BARCO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Patricia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MALETA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Ricardo",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "SOMBRERO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Lucia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ZAPATO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Manuel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CAMISA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Claudia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PANTALON",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Maria",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CHAQUETA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Juan",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CALCETIN",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Pedro",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "GAFAS",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Ana",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BOLSA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Luis",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MOCHILA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Laura",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CEPILLO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Carlos",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ESPEJO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Marta",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "JARRON",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Diego",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PLATO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Elena",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PELOTA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Objeto"
     },
     {
-      "palabra": "Jose",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PIZZA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Sofia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "HAMBURGUESA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Miguel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PAELLA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Isabel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "TORTILLA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Fernando",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "SOPA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Patricia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PAN",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Ricardo",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "QUESO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Lucia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "JAMON",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Manuel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ENSALADA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Claudia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CROQUETA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Maria",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ARROZ",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Juan",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "POLLO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Pedro",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CARNE",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Ana",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PESCADO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Luis",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MARISCO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Laura",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CHOCOLATE",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Carlos",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "HELADO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Marta",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MANZANA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Diego",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "NARANJA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Elena",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PLATANO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Jose",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PERA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Sofia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "FRESA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Miguel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MELON",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Isabel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "SANDIA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Fernando",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CEREZA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Patricia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "UVA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Ricardo",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MANDARINA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Lucia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "KIWI",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Manuel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MANGO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Claudia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "COCO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Maria",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CAFE",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Juan",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "TE",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Pedro",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "LECHE",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Ana",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ZUMO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Luis",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "GALLETA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Laura",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BIZCOCHO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Carlos",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CHURRO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Marta",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ACEITUNA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Diego",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "LENTEJAS",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Elena",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "GARBANZOS",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Comida"
     },
     {
-      "palabra": "Jose",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PERRO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Sofia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "GATO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Miguel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "LEON",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Isabel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "TIGRE",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Fernando",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ELEFANTE",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Patricia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CABALLO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Ricardo",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "OVEJA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Lucia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CABRA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Manuel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "AGUILA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Claudia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "LORO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Maria",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "JIRAFA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Juan",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "RINOCERONTE",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Pedro",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "HIPOPOTAMO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Ana",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CEBRA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Luis",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MONO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Laura",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "GORILA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Carlos",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CHIMPANCE",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Marta",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PUMA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Diego",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "JAGUAR",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Elena",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "COCODRILO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Jose",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "SERPIENTE",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Sofia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "TORTUGA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Miguel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "RANA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Isabel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PEZ",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Fernando",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "DELFIN",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Patricia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BALLENA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Ricardo",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "TIBURON",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Lucia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PINGUINO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Manuel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "OSO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Claudia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "KOALA",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Maria",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CANGURO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Juan",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CAMELLO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Pedro",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BURRO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Ana",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ZORRO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Luis",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "LOBO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Laura",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CIERVO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Carlos",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MURCIELAGO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Marta",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "AGUILA REAL",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Diego",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "HALCON",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Elena",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BUHO",
+      "tipo_gramatical": "Sustantivo",
+      "categoria_semantica": "Animal"
     },
     {
-      "palabra": "Jose",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ESPANA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Sofia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "FRANCIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Miguel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ITALIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Isabel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PORTUGAL",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Fernando",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ALEMANIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Patricia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "JAPON",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Ricardo",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CHINA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Lucia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BRASIL",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Manuel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MEXICO",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Claudia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ARGENTINA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Maria",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CHILE",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Juan",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "COLOMBIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Pedro",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PERU",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Ana",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ECUADOR",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Luis",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "URUGUAY",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Laura",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PARAGUAY",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Carlos",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BOLIVIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Marta",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "VENEZUELA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Diego",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ESTADOS UNIDOS",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Elena",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CANADA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Jose",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "RUSIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Sofia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "INDIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Miguel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "COREA DEL SUR",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Isabel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "COREA DEL NORTE",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Fernando",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "AUSTRALIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Patricia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "SUDAFRICA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Ricardo",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "EGIPTO",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Lucia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MARRUECOS",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Manuel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "TURQUIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Claudia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "GRECIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Maria",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "NORUEGA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Juan",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "SUECIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Pedro",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "FINLANDIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Ana",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "DINAMARCA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Luis",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "POLONIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Laura",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "UCRANIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Carlos",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "HUNGRIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Marta",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "RUMANIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Diego",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "IRLANDA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Elena",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "REINO UNIDO",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "País"
     },
     {
-      "palabra": "Jose",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MADRID",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Sofia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PARIS",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Miguel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ROMA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Isabel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BERLIN",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Fernando",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "LISBOA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Patricia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "TOKIO",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Ricardo",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PEKIN",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Lucia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BRASILIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Manuel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BUENOS AIRES",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Claudia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "OTTAWA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Maria",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "LONDRES",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Juan",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "MOSCU",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Pedro",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "CANBERRA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Ana",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "SEUL",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Luis",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "EL CAIRO",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Laura",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ATENAS",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Carlos",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "VARSOVIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Marta",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ESTOCOLMO",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Diego",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "OSLO",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Elena",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "HELSINKI",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Jose",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "COPENHAGUE",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Sofia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "AMSTERDAM",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Miguel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BRUSELAS",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Isabel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PRAGA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Fernando",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "VIENA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Patricia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "BUDAPEST",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Ricardo",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "DUBLIN",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Lucia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "ANKARA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Manuel",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "RABAT",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "Claudia",
-      "tipo_gramatical": "Nombre",
-      "categoria_semantica": "Nombre propio"
+      "palabra": "PRETORIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Capital"
     },
     {
-      "palabra": "perro",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "BARCELONA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "gato",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "VALENCIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "raton",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "SEVILLA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "conejo",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "ZARAGOZA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "tigre",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "BILBAO",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "leon",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "GRANADA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "elefante",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "CORDOBA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "jirafa",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "MALAGA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "zorro",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "TOLEDO",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "lobo",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "SANTANDER",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "oso",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "SALAMANCA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "vaca",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "MURCIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "caballo",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "VALLADOLID",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "cerdo",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "PAMPLONA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "oveja",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "SAN SEBASTIAN",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "pollo",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "OVIEDO",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "pato",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "GIJON",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "gallina",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "ALICANTE",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "pez",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "CASTELLON",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "tortuga",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "BURGOS",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "perro",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "LEON",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "gato",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "SEGOVIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "raton",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "AVILA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "conejo",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "ALMERIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "tigre",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "JAEN",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "leon",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "CADIZ",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "elefante",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "HUELVA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "jirafa",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "LUGO",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "zorro",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "OURENSE",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "lobo",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "LA CORUNA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "oso",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "SANTIAGO DE COMPOSTELA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "vaca",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "TARRAGONA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "caballo",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "LLEIDA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "cerdo",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "GIRONA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "oveja",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "PALMA DE MALLORCA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "pollo",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "IBIZA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "pato",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "CEUTA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "gallina",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "MELILLA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "pez",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "LOGRONO",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "tortuga",
-      "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "palabra": "VITORIA",
+      "tipo_gramatical": "Nombre propio",
+      "categoria_semantica": "Ciudad de España"
     },
     {
-      "palabra": "perro",
+      "palabra": "FUTBOL",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "gato",
+      "palabra": "BALONCESTO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "raton",
+      "palabra": "TENIS",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "conejo",
+      "palabra": "NATACION",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "tigre",
+      "palabra": "CICLISMO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "leon",
+      "palabra": "ATLETISMO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "elefante",
+      "palabra": "RUGBY",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "jirafa",
+      "palabra": "VOLEIBOL",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "zorro",
+      "palabra": "BOXEO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "lobo",
+      "palabra": "GOLF",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "oso",
+      "palabra": "BEISBOL",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "vaca",
+      "palabra": "HOCKEY",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "caballo",
+      "palabra": "BALONMANO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "cerdo",
+      "palabra": "ESQUI",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "oveja",
+      "palabra": "SNOWBOARD",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "pollo",
+      "palabra": "PATINAJE",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "pato",
+      "palabra": "SURF",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "gallina",
+      "palabra": "ESCALADA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "pez",
+      "palabra": "KARATE",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "tortuga",
+      "palabra": "JUDO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "perro",
+      "palabra": "TAEKWONDO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "gato",
+      "palabra": "ESGRIMA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "raton",
+      "palabra": "REMO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "conejo",
+      "palabra": "PIRAGUISMO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "tigre",
+      "palabra": "WINDSURF",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "leon",
+      "palabra": "AJEDREZ",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "elefante",
+      "palabra": "BILLAR",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "jirafa",
+      "palabra": "PADEL",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "zorro",
+      "palabra": "SENDERISMO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "lobo",
+      "palabra": "GIMNASIA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Deporte"
     },
     {
-      "palabra": "oso",
+      "palabra": "MEDICO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "vaca",
+      "palabra": "PROFESOR",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "caballo",
+      "palabra": "INGENIERO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "cerdo",
+      "palabra": "ABOGADO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "oveja",
+      "palabra": "ARQUITECTO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "pollo",
+      "palabra": "ENFERMERO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "pato",
+      "palabra": "CARPINTERO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "gallina",
+      "palabra": "ELECTRICISTA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "pez",
+      "palabra": "FONTANERO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "tortuga",
+      "palabra": "PANADERO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "perro",
+      "palabra": "PINTOR",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "gato",
+      "palabra": "ALBANIL",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "raton",
+      "palabra": "COCINERO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "conejo",
+      "palabra": "CAMARERO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "tigre",
+      "palabra": "MECANICO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "leon",
+      "palabra": "PELUQUERO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "elefante",
+      "palabra": "PERIODISTA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "jirafa",
+      "palabra": "FOTOGRAFO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "zorro",
+      "palabra": "ACTOR",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "lobo",
+      "palabra": "CANTANTE",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "oso",
+      "palabra": "BAILARIN",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "vaca",
+      "palabra": "POLICIA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "caballo",
+      "palabra": "BOMBERO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "cerdo",
+      "palabra": "SOLDADO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "oveja",
+      "palabra": "PILOTO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "pollo",
+      "palabra": "MARINERO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "pato",
+      "palabra": "AGRICULTOR",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "gallina",
+      "palabra": "GANADERO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "pez",
+      "palabra": "PSICOLOGO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "tortuga",
+      "palabra": "DENTISTA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "perro",
+      "palabra": "FARMACEUTICO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "gato",
+      "palabra": "VETERINARIO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "raton",
+      "palabra": "INFORMATICO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "conejo",
+      "palabra": "DISENADOR",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "tigre",
+      "palabra": "PROGRAMADOR",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "leon",
+      "palabra": "CONTABLE",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "elefante",
+      "palabra": "ECONOMISTA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "jirafa",
+      "palabra": "JUEZ",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "zorro",
+      "palabra": "NOTARIO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "lobo",
+      "palabra": "SECRETARIO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Profesión"
     },
     {
-      "palabra": "oso",
+      "palabra": "CABEZA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "vaca",
+      "palabra": "MANO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "caballo",
+      "palabra": "PIE",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "cerdo",
+      "palabra": "BRAZO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "oveja",
+      "palabra": "PIERNA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "pollo",
+      "palabra": "OJO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "pato",
+      "palabra": "OREJA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "gallina",
+      "palabra": "BOCA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "pez",
+      "palabra": "NARIZ",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "tortuga",
+      "palabra": "ESPALDA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "perro",
+      "palabra": "CUELLO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "gato",
+      "palabra": "HOMBRO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "raton",
+      "palabra": "CODO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "conejo",
+      "palabra": "RODILLA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "tigre",
+      "palabra": "TOBILLO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "leon",
+      "palabra": "DEDO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "elefante",
+      "palabra": "UNA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "jirafa",
+      "palabra": "PELO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "zorro",
+      "palabra": "CORAZON",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "lobo",
+      "palabra": "PULMON",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "oso",
+      "palabra": "HIGADO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "vaca",
+      "palabra": "RINON",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "caballo",
+      "palabra": "ESTOMAGO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "cerdo",
+      "palabra": "INTESTINO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "oveja",
+      "palabra": "COLUMNA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "pollo",
+      "palabra": "CADERA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "pato",
+      "palabra": "MUNECA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "gallina",
+      "palabra": "TALON",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "pez",
+      "palabra": "MENTON",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "tortuga",
+      "palabra": "FRENTE",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "perro",
+      "palabra": "LENGUA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "gato",
+      "palabra": "DIENTE",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "raton",
+      "palabra": "BARBILLA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "conejo",
+      "palabra": "PARPADO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "tigre",
+      "palabra": "PESTANA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "leon",
+      "palabra": "CEJA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "elefante",
+      "palabra": "OMBLIGO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "jirafa",
+      "palabra": "MUSLO",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "zorro",
+      "palabra": "PANTORRILLA",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     },
     {
-      "palabra": "lobo",
+      "palabra": "TALON",
       "tipo_gramatical": "Sustantivo",
-      "categoria_semantica": "Animal"
+      "categoria_semantica": "Parte del cuerpo humano"
     }
   ]
 }
