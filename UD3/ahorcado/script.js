@@ -2,12 +2,19 @@ let palabraOriginal;
 let palabraOculta;
 let intentos = 1;
 let palabras = [];
+let palabrasAcertadas = 0;
+let palabrasFalladas = 0;
 const img = document.getElementById("imgAhorcado");
 const mensajeIncorrecto = document.getElementById("mensajeIncorrecto");
+
+//Correjis funcionalidad, despues de un par de intentos deja de funconar.
+//Correjr tambien el contador
 
 window.onload = function () {
   //Llamada a la funcion para generar una palabra al inciar la pagina
   generarPalabra();
+  mostrarAbecedario();
+  Mostrarcontador();
 };
 
 function generarPalabra() {
@@ -28,8 +35,7 @@ function generarPalabra() {
       const categoria_semantica = document.getElementById(
         "categoria_semantica"
       );
-      resultadoDiv.textContent =
-        palabraOculta.join(" ") + palabraOriginal.palabra; //Mostrar la palabra oculta
+      resultadoDiv.textContent = palabraOculta.join(" "); //Mostrar la palabra oculta
       tipo_gramatical.textContent = palabraOriginal.tipo_gramatical; //Mostrar el tipo de la palabra
       categoria_semantica.textContent = palabraOriginal.categoria_semantica; //Mostar la categoria de la palabra
 
@@ -70,13 +76,17 @@ function comprobarPalabra() {
     mensajeIncorrecto.classList.remove("d-none"); //Muestra mensaje
     intentos++;
     img.src = `./img/ahorcado0${intentos}.png`; //Incrementa la imagen en funcion de los intentos
+    marcarletraIncorrecta(letra); //Marcar la letra incorrecta
 
+    //Fin del juego
     if (intentos === 7) {
       mensajeIncorrecto.classList.add("d-none"); //Elimina el mensaje de equivocacion
       document.getElementById("overlayDerrota").style.display = "flex"; //Muestra el overlay de la derrota
+
       //Muestra la palabra que no acerto el usuario con la primera letra en mayuscula
       const palabraDerrota = document.getElementById("palabraDerrota");
       palabraDerrota.textContent = palabraOriginal.palabra;
+      palabrasFalladas += 1; //Suma 1 al contador de palabras falladasa
       return;
     }
   } else if (acierto) {
@@ -84,6 +94,7 @@ function comprobarPalabra() {
     //Si la lapabra no contiene ningun "_" significa que ha sido acertada
     if (!palabraOculta.includes("_")) {
       document.getElementById("overlayVictoria").style.display = "flex"; //Muestra el overlay de la victoria
+      palabrasAcertadas += 1; //Suma 1 al contador de palabras acertadas
       return;
     }
   }
@@ -92,4 +103,70 @@ function comprobarPalabra() {
 function cerrarOverlay(id) {
   document.getElementById(id).style.display = "none"; //Cierra el overlay
   generarPalabra(); //Genera una nueva palabra
+  reiniciarAbecedario(); //Reinicar el abecedario
+  Mostrarcontador(); //Actuializa el contador
+}
+
+function mostrarAbecedario() {
+  const mostrarAbecedario = document.getElementById("mostrarAbecedario");
+  const abecedario = [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "Ñ",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z",
+  ];
+  abecedario.forEach((letra) => {
+    const span = document.createElement("span");
+    span.textContent = letra;
+    span.id = `letra-${letra}`; //Asignar un id unico
+    span.style.margin = "5px ";
+    mostrarAbecedario.appendChild(span);
+  });
+}
+
+function marcarletraIncorrecta(letra) {
+  const span = document.getElementById(`letra-${letra}`);
+  span.style.color = "#FF6467";
+  span.style.textDecoration = "line-through";
+}
+
+function reiniciarAbecedario() {
+  const mostrarAbecedario = document.getElementById("mostrarAbecedario");
+  const spans = mostrarAbecedario.querySelectorAll("span");
+
+  spans.forEach((span) => {
+    span.style.color = "black"; // volver al color original
+    span.style.textDecoration = "none"; // quitar el tachado
+  });
+}
+
+function Mostrarcontador() {
+  const aciertos = document.getElementById("aciertos");
+  const fallos = document.getElementById("fallos");
+
+  aciertos.textContent += " " + palabrasAcertadas;
+  fallos.textContent += " " + palabrasFalladas;
 }
