@@ -7,17 +7,16 @@ let palabrasFalladas = 0;
 const img = document.getElementById("imgAhorcado");
 const mensajeIncorrecto = document.getElementById("mensajeIncorrecto");
 
-//Correjis funcionalidad, despues de un par de intentos deja de funconar.
-//Correjr tambien el contador
-
 window.onload = function () {
-  //Llamada a la funcion para generar una palabra al inciar la pagina
   generarPalabra();
   mostrarAbecedario();
   Mostrarcontador();
 };
 
 function generarPalabra() {
+  intentos = 1; //Reiniciar intentos
+  reiniciarAbecedario(); //Reinicar el abecedario
+
   fetch("palabras.json")
     .then((res) => res.json())
     .then((data) => {
@@ -32,9 +31,7 @@ function generarPalabra() {
 
       const resultadoDiv = document.getElementById("palabra");
       const tipo_gramatical = document.getElementById("tipo_gramatical");
-      const categoria_semantica = document.getElementById(
-        "categoria_semantica"
-      );
+      const categoria_semantica = document.getElementById("categoria_semantica");
       resultadoDiv.textContent = palabraOculta.join(" "); //Mostrar la palabra oculta
       tipo_gramatical.textContent = palabraOriginal.tipo_gramatical; //Mostrar el tipo de la palabra
       categoria_semantica.textContent = palabraOriginal.categoria_semantica; //Mostar la categoria de la palabra
@@ -109,35 +106,7 @@ function cerrarOverlay(id) {
 
 function mostrarAbecedario() {
   const mostrarAbecedario = document.getElementById("mostrarAbecedario");
-  const abecedario = [
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
-    "H",
-    "I",
-    "J",
-    "K",
-    "L",
-    "M",
-    "N",
-    "Ñ",
-    "O",
-    "P",
-    "Q",
-    "R",
-    "S",
-    "T",
-    "U",
-    "V",
-    "W",
-    "X",
-    "Y",
-    "Z",
-  ];
+  const abecedario = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "Ñ", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
   abecedario.forEach((letra) => {
     const span = document.createElement("span");
     span.textContent = letra;
@@ -167,6 +136,6 @@ function Mostrarcontador() {
   const aciertos = document.getElementById("aciertos");
   const fallos = document.getElementById("fallos");
 
-  aciertos.textContent += " " + palabrasAcertadas;
-  fallos.textContent += " " + palabrasFalladas;
+  aciertos.textContent = "Palabras Acertadas: " + palabrasAcertadas;
+  fallos.textContent = "Palabras Falladas: " + palabrasFalladas;
 }

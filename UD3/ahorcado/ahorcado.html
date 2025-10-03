@@ -10,75 +10,19 @@
       integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
       crossorigin="anonymous"
     />
-    <style>
-      .overlay {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: rgba(0, 0, 0, 0.8);
-        display: none; /* de base oculto */
-        justify-content: center;
-        align-items: center;
-        z-index: 9999;
-      }
-      .input-group {
-        margin-bottom: 20px;
-      }
-      .mostrarAbecedario {
-        font-size: 1.5rem;
-        border-radius: 10px;
-        padding: 2px 20px;
-        display: inline-block;
-        background-color: #f5f5f4;
-        margin-bottom: 20px;
-      }
-      .contador {
-        font-size: 1.5rem;
-        font-weight: bold;
-      }
-      .aciertos {
-        background-color: #9ae630;
-      }
-      .fallos {
-        background-color: #ff6467;
-      }
-      .box {
-        padding: 2px 10px;
-        border-radius: 10px;
-        border: 2px solid black;
-        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
-      }
-    </style>
+    <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
     <div class="d-flex justify-content-center align-items-center vh-100">
       <div class="container text-center">
         <h1 style="margin-bottom: 20px">Ahorcado</h1>
+
         <div class="input-group w-50 mx-auto">
-          <input
-            class="form-control"
-            id="letraInput"
-            type="text"
-            maxlength="1"
-            placeholder="Introduca una letra"
-          />
-          <button
-            type="button"
-            class="btn btn-primary"
-            onclick="comprobarPalabra()"
-          >
-            Comprobar
-          </button>
-          <button
-            type="button"
-            class="btn btn-warning"
-            onclick="generarPalabra()"
-          >
-            Generar nueva palabra
-          </button>
+          <input class="form-control" id="letraInput" type="text" maxlength="1" placeholder="Introduca una letra" />
+          <button type="button" class="btn btn-primary" onclick="comprobarPalabra()">Comprobar</button>
+          <button type="button" class="btn btn-warning" onclick="generarPalabra()">Generar nueva palabra</button>
         </div>
+
         <div class="d-flex justify-content-between w-50 mx-auto mb-3">
           <pre style="font-size: 1.5rem" id="tipo_gramatical"></pre>
           <pre style="font-size: 1.5rem" id="categoria_semantica"></pre>
@@ -88,25 +32,18 @@
 
         <pre id="palabra" style="font-size: 2rem"></pre>
 
-        <div
-          id="mensajeIncorrecto"
-          class="alert alert-danger d-none"
-          role="alert"
-        >
-          ¡Letra incorrecta!
-        </div>
+        <div id="mensajeIncorrecto" class="alert alert-danger d-none" role="alert">¡Letra incorrecta!</div>
+
         <div id="imagenAhorcado">
           <img id="imgAhorcado" src="./img/ahorcado01.png" alt="ahorcado01" />
         </div>
-        <div
-          class="d-flex mx-auto mb-3 justify-content-center"
-          style="gap: 50px"
-        >
+
+        <div class="d-flex mx-auto mb-3 justify-content-center" style="gap: 50px">
           <div class="box aciertos">
-            <span id="aciertos" class="contador">Palabras Acertadas:</span>
+            <span id="aciertos" class="contador"></span>
           </div>
           <div class="box fallos">
-            <span id="fallos" class="contador">Palabras Falladas: </span>
+            <span id="fallos" class="contador"></span>
           </div>
         </div>
       </div>
@@ -116,12 +53,7 @@
     <div id="overlayVictoria" class="overlay">
       <div class="overlay-content alert alert-success text-center">
         <h2>¡¡¡Has Ganado!!!</h2>
-        <button
-          class="btn btn-primary mt-3"
-          onclick="cerrarOverlay('overlayVictoria')"
-        >
-          Cerrar
-        </button>
+        <button class="btn btn-primary mt-3" onclick="cerrarOverlay('overlayVictoria')">Cerrar</button>
       </div>
     </div>
 
@@ -131,14 +63,10 @@
         <h2>💀 ¡Has perdido!</h2>
         <p>La palabra era:</p>
         <p id="palabraDerrota"></p>
-        <button
-          class="btn btn-primary mt-3"
-          onclick="cerrarOverlay('overlayDerrota')"
-        >
-          Cerrar
-        </button>
+        <button class="btn btn-primary mt-3" onclick="cerrarOverlay('overlayDerrota')">Cerrar</button>
       </div>
     </div>
+
     <script src="./script.js"></script>
   </body>
 </html>
