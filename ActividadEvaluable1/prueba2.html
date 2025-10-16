@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      //Establecer variables
+      let numeros = [];
+      let primos = [];
+      let primosTotales = [];
+      let suma = 0;
+
+      //Input del usuario
+      let input = prompt("Ingrese una cadena de numeros separadas por comas: ");
+      let valores = input.split(","); //se separa el input en cada ,
+
+      //Introducir los numeros del input en el array y controlar errores
+      valores.forEach((n) => {
+        let num = parseInt(n.trim());
+        if (isNaN(num)) {
+          alert("Ingrese un numero");
+          return null;
+        }
+        numeros.push(Number(num));
+      });
+
+      //Calcular suma total del array y comprobar si es primo
+      numeros.forEach((num) => {
+        suma += num;
+        if (!esPrimo(num)) {
+          return null;
+        }
+        primos.push(num);
+      });
+
+      //funcion para saber si es primo
+      function esPrimo(num) {
+        if (num < 2) return false;
+
+        for (let i = 2; i <= Math.sqrt(num); i++) {
+          if (num % i === 0) {
+            return false;
+          }
+        }
+        return true;
+      }
+
+      //Suma total del numero de primos
+      primos.forEach((num) => {
+        primosTotales++;
+      });
+
+      //Calcular media
+      let media = numeros / numeros.length;
+
+      alert(`Numeros primos: ${primos}\n` + `Numero total de primos: ${primosTotales}\n` + `Suma Total: ${suma}\n` + `Media total ${media}`);
+    </script>
+  </body>
+</html>

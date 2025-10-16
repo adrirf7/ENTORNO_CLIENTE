@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // 1. Pedir al usuario que introduzca números separados por comas
+        let input = prompt("Introduce una lista de números enteros separados por comas:");
+
+      // 2. Convertir la entrada en un array de números y controlar errores
+      let numbers = input.split(",").map(item => {
+          let num = parseInt(item.trim());
+          if (isNaN(num)) {
+              alert(`"${item}" no es un número válido. Será ignorado.`);
+              return null;
+          }
+          return num;
+      });
+
+      // Función para determinar si un número es primo
+      function esPrimo(num) {
+          if (num < 2) return false;
+          for (let i = 2; i <= Math.sqrt(num); i++) {
+              if (num % i === 0) return false;
+          }
+          return true;
+      }
+
+      // 3. Recorrer el array y hacer los cálculos
+      let primos = [];
+      let suma = 0;
+
+      numbers.forEach(num => {
+          suma += num;
+          if (esPrimo(num)) {
+              primos.push(num);
+          }
+      });
+
+      let media = suma / numbers.length;
+      let totalPrimos = primos.length;
+
+      // 4. Mostrar los resultados
+      alert(
+          `Números introducidos: ${numbers.join(", ")}\n` +
+          `Números primos: ${primos.join(", ")}\n` +
+          `Total de números primos: ${totalPrimos}\n` +
+          `Suma total: ${suma}\n` +
+          `Media: ${media.toFixed(2)}`
+      );
+    </script>
+</body>
+</html>
+
+
+
