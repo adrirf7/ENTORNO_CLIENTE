@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Reduce</title>
+</head>
+<body>
+
+<script>
+// The reduce() method of Array instances executes a user-supplied "reducer"
+// callback function on each element of the array, in order,
+// passing in the return value from the calculation on the preceding element.
+// The final result of running the reducer across all elements of the array is a single value.
+
+// The first time that the callback is run there is no "return value of the previous calculation".
+// If supplied, an initial value may be used in its place.
+// Otherwise the array element at index 0 is used as the initial value and iteration
+// starts from the next element (index 1 instead of index 0).
+
+const array1 = [1, 2, 3, 4];
+
+// 0 + 1 + 2 + 3 + 4
+const initialValue = 0;
+const sumWithInitial = array1.reduce(
+  (accumulator, currentValue) => accumulator + currentValue,
+  initialValue,
+);
+
+console.log(sumWithInitial);
+// Expected output: 10
+
+// Parameters
+// callbackFn
+// A function to execute for each element in the array. Its return value becomes the value of the accumulator parameter on the next invocation of callbackFn. For the last invocation, the return value becomes the return value of reduce(). The function is called with the following arguments:
+
+// accumulator
+// The value resulting from the previous call to callbackFn. On the first call, its value is initialValue if the latter is specified; otherwise its value is array[0].
+
+// currentValue
+// The value of the current element. On the first call, its value is array[0] if initialValue is specified; otherwise its value is array[1].
+
+// currentIndex
+// The index position of currentValue in the array. On the first call, its value is 0 if initialValue is specified, otherwise 1.
+
+// array
+// The array reduce() was called upon.
+
+// Return value
+// The value that results from running the "reducer" callback function to completion over the entire array.
+
+// Examples
+// How reduce() works without an initial value
+// The code below shows what happens if we call reduce() with an array and no initial value.
+
+const array = [15, 16, 17, 18, 19];
+
+function reducer(accumulator, currentValue, index) {
+  const returns = accumulator + currentValue;
+  console.log(
+    `accumulator: ${accumulator}, currentValue: ${currentValue}, index: ${index}, returns: ${returns}`,
+  );
+  return returns;
+}
+// const initialValuee = 0;
+array.reduce(reducer);
+
+
+// How reduce() works with an initial value
+// Here we reduce the same array using the same algorithm,
+//  but with an initialValue of 10 passed as the second argument to reduce():
+
+console.log([15, 16, 17, 18, 19].reduce(
+  (accumulator, currentValue) => accumulator + currentValue,
+  10,
+));
+
+
+</script>
+</body>
+</html>

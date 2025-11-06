@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <script>
+
+            // Clase coche
+            // 3 propiedades privadas
+            // 1 propiedad pública
+            // Para las propiedades privadas (los getters y los setters respectivos)
+            // Un constructor que recibe 3 params para las propiedades privadas
+            // 1 método privado
+            // 1 método público que nos de un string con la info (propiedades) del objeto
+
+            // Recursos
+            // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_properties
+            // https://www.programiz.com/javascript/getter-setter
+            // https://javascript.info/private-protected-properties-methods
+
+
+            class Coche {
+                #marca;
+                #modelo;
+                #anyo;
+                color;
+
+                get dame_marca() {
+                    return this.#marca;
+                }
+
+                set_marca(value) {
+                    this.#marca = value;
+                }
+
+                get dame_modelo() {
+                    return this.#modelo;
+                }
+
+                set_modelo(value) {
+                    this.#modelo = value;
+                }
+
+                get dame_anyo() {
+                    return this.#anyo;
+                }
+
+                set_anyo(value) {
+                    this.#anyo = value;
+                }
+
+                constructor(p_marca, p_modelo, p_anyo, p_color) {
+                    this.#marca = p_marca;
+                    this.#modelo = p_modelo;
+                    this.#anyo = p_anyo;
+                    this.color = p_color;
+                }
+
+                infoObjeto(){
+                return this.#marca + "-" + this.#modelo + "-" + this.#anyo + "-" + this.color + "-" + this.#privateMethod();
+                }
+
+
+                #privateMethod() {
+                    return "método privado";
+                }
+            }
+
+            const coche1 = new Coche('seat','ibiza','2010','rojo');
+            console.log(coche1.infoObjeto());
+
+            coche1.set_marca('cambiada1');
+            coche1.set_modelo('cambiada2');
+            coche1.set_anyo('cambiada3');
+
+            console.log(coche1.dame_marca);
+            console.log(coche1.dame_modelo);
+            console.log(coche1.dame_anyo);
+            console.log(coche1.color);
+            console.log(coche1.infoObjeto());
+        </script>
+    </body>
+</html>

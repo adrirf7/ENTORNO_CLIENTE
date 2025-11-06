@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gestión de Biblioteca</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Gestión de Biblioteca</h1>
+
+      <!-- Añadir libro -->
+      <div class="card">
+        <h2>Añadir Libro</h2>
+        <form id="formLibro">
+          <input type="text" id="titulo" placeholder="Título" required />
+          <input type="text" id="autor" placeholder="Autor" required />
+          <input type="number" id="anioPublicacion" placeholder="Año" min="1000" max="2025" required />
+          <select id="genero" required>
+            <option value="">Seleccionar género</option>
+            <option value="Ficción">Ficción</option>
+            <option value="Ciencia Ficción">Ciencia Ficción</option>
+            <option value="Fantasía">Fantasía</option>
+            <option value="Historia">Historia</option>
+            <option value="Técnico">Técnico</option>
+          </select>
+          <input type="text" id="isbn" placeholder="ISBN" required />
+          <button type="submit">Añadir</button>
+        </form>
+      </div>
+
+      <!-- Buscar libro -->
+      <div class="card">
+        <h2>Buscar Libro</h2>
+        <input type="text" id="busqueda" placeholder="Buscar por título o ISBN" />
+        <button id="btnBuscar">Buscar</button>
+        <button id="btnListarTodos">Listar Todos</button>
+      </div>
+
+      <!-- Estadísticas -->
+      <div class="card">
+        <h2>Estadísticas</h2>
+        <button id="btnEstadisticas">Mostrar Estadísticas</button>
+        <div id="estadisticas"></div>
+      </div>
+
+      <!-- Listado de libros -->
+      <div class="card">
+        <h2>Libros</h2>
+        <div id="listaLibros"></div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
