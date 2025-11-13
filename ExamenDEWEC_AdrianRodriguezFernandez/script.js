@@ -58,6 +58,3 @@ document.getElementById("generar-btn").addEventListener("click", function () {
   let usuarios = crearArrayUsuarios(5);
   mostrarTarjetasConClase(usuarios);
 });
-
-// Aplicar estilos al cargar
-aplicarEstilos();
