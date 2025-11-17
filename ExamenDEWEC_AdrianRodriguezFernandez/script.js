@@ -25,23 +25,23 @@ const crearArrayUsuarios = (cantidad) => {
 
 // 10. Mostrar tarjetas usando datos de los objetos (métodos de la clase)
 const mostrarTarjetasConClase = (usuarios) => {
-  let contenedor = document.getElementById("contenedor-tarjetas");
+  const contenedor = document.querySelector("#contenedor-tarjetas");
   contenedor.innerHTML = "";
 
   usuarios.forEach(function (usuario) {
-    let tarjeta = document.createElement("div");
+    const tarjeta = document.createElement("div");
     tarjeta.className = "tarjeta";
 
-    let titulo = document.createElement("h2");
+    const titulo = document.createElement("h2");
     titulo.textContent = usuario.nombre;
 
-    let presentacion = document.createElement("p");
+    const presentacion = document.createElement("p");
     presentacion.textContent = usuario.presentar();
 
-    let email = document.createElement("p");
+    const email = document.createElement("p");
     email.textContent = "Email: " + usuario.email;
 
-    let estado = document.createElement("p");
+    const estado = document.createElement("p");
     estado.textContent = "Estado: " + (usuario.activo ? "Activo" : "Inactivo");
 
     tarjeta.appendChild(titulo);
@@ -54,7 +54,7 @@ const mostrarTarjetasConClase = (usuarios) => {
 };
 
 // Evento del botón
-document.getElementById("generar-btn").addEventListener("click", function () {
+document.querySelector("#generar-btn").addEventListener("click", () => {
   let usuarios = crearArrayUsuarios(5);
   mostrarTarjetasConClase(usuarios);
 });
